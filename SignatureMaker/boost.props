@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <IncludePath>$(IncludePath);$(ExternalSdkPath)\boost_1_74_0</IncludePath>
+    <LibraryPath>$(LibraryPath);$(ExternalSdkPath)\boost_1_74_0\stage\lib</LibraryPath>
+  </PropertyGroup>
+</Project>
